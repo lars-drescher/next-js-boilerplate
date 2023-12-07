@@ -1,4 +1,4 @@
-NextJS Boilerplate
+
 NextJS Boilerplate including shadcn as a component Library
 
 ## Getting Started
